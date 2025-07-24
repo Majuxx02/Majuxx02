@@ -32,7 +32,8 @@
 
 ## 🐍 Snake Game das Contribuições
 
-![snake gif](https://github.com/Majuxx02/Majuxx02/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Majuxx02/Majuxx02/output/github-contribution-grid-snake.svg)
+
 
 ### 🤝 Vamos nos conectar?
 
