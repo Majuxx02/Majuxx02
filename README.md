@@ -30,9 +30,10 @@
 
 ---
 
-## 🐍 Snake Game das Contribuições
+## 🐍 Snake eating my contributions
 
-![snake gif](https://raw.githubusercontent.com/Majuxx02/Majuxx02/output/github-contribution-grid-snake.svg)
+![Snake animation](https://majuxx02.github.io/Majuxx02/github-snake.svg)
+
 
 
 ### 🤝 Vamos nos conectar?
