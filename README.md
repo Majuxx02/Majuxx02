@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estudando **JavaScript, Python, Git e interfaces web**
 - 🛠️ Desenvolvendo projetos práticos e criativos para meu portfólio
-- 📫 Me encontre em: **mariajulia02031748@gmail.com** *(adicione seu e-mail real)*
+- 📫 Me encontre em: **mariajulia02031748@gmail.com** 
 - ✨ Curiosidade: Adoro desafios e resolver problemas com código!
 
 ---
@@ -30,7 +30,6 @@
 
 ---
 
-## 🐍 Snake eating my contributions
 
 ![Snake animation](https://majuxx02.github.io/Majuxx02/github-snake.svg)
 
