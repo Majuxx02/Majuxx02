@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou a Maria Julia</h1>
 <h3 align="center">💻 Apaixonada por tecnologia | 🎨 Criadora de Interfaces | 🚀 Exploradora do mundo dev</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Dev animation">
-</p>
-
 ---
 
 - 🌱 Atualmente estudando **JavaScript, Python, Git e interfaces web**
@@ -40,14 +36,8 @@
 
 ---
 
-### 🧠 Métricas adicionais
-
-[![Metrics](https://github.com/Majuxx02/Majuxx02/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
-
----
-
 ### 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://SEU-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majuxx02//)
+
 
