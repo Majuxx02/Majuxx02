@@ -30,11 +30,10 @@
 
 ---
 
-### 🐍 Snake Contributions
+## 🐍 Snake activity graph
 
-![Snake animation](https://github.com/Majuxx02/Majuxx02/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Majuxx02/Majuxx02/blob/output/github-contribution-grid-snake.svg)
 
----
 
 ### 🤝 Vamos nos conectar?
 
