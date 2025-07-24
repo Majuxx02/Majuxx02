@@ -30,7 +30,7 @@
 
 ---
 
-## 🐍 Snake activity graph
+## 🐍 Snake Game Contribution Graph
 
 ![snake gif](https://github.com/Majuxx02/Majuxx02/blob/output/github-contribution-grid-snake.svg)
 
