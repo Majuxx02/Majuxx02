@@ -1,9 +1,8 @@
-<h1 align="center">Olá, eu sou a Maria Julia</h1>
+<h1 align="center"> Olá, eu sou a Maria Julia</h1>
 <h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e inovação.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End+em+formação" />
-</p>
-
+</p
 ---
 
 - 🌱 Atualmente estudando **JavaScript, Python, Git e interfaces web**
