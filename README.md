@@ -1,15 +1,22 @@
-<h1 align="center"> Olá, eu sou a Maria Julia</h1>
-<h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e inovação.
+---  
+<h1 align="center">Olá, eu sou a Maria Julia </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End+em+formação" />
-</p
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=EC70A5&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End+em+formação;Estudante+de+ADS;Amante+de+tecnologia+e+design" />
+</p>
+
 ---
 
-- 🌱 Atualmente estudando **JavaScript, Python, Git e interfaces web**
-- 🛠️ Desenvolvendo projetos práticos e criativos para meu portfólio
-- 📫 Me encontre em: **mariajulia02031748@gmail.com** 
-  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💡 Apaixonada por tecnologia, inovação e interfaces criativas  
+🌸 Desenvolvedora **Front-End em formação**
 
+---
+
+### 🌱 Atualmente:
+- 📚 Estudando **JavaScript**, **Python**, **Git** e **interfaces web**
+- 💻 Desenvolvendo projetos práticos para meu portfólio
+- 📫 Me encontre em: [mariajulia02031748@gmail.com](mailto:mariajulia02031748@gmail.com)
 ---
 
 ### 🧰 Minhas Skills
