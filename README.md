@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou a Maria Julia </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=EC70A5&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End+em+formação;Estudante+de+ADS;Amante+de+tecnologia+e+design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=EC70A5&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End+em+formação" />
 </p>
 
 ---
