@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou a Maria Julia</h1>
-<h3 align="center">💻 Apaixonada por tecnologia | 🎨 Criadora de Interfaces | 🚀 Exploradora do mundo dev</h3>
+<h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Front-end em formação | Apaixonada por tecnologia e inovação.
 
 ---
 
 - 🌱 Atualmente estudando **JavaScript, Python, Git e interfaces web**
 - 🛠️ Desenvolvendo projetos práticos e criativos para meu portfólio
 - 📫 Me encontre em: **mariajulia02031748@gmail.com** 
-- ✨ Curiosidade: Adoro desafios e resolver problemas com código!
+  
 
 ---
 
