@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 - PHP
 - JavaScript
@@ -26,8 +26,7 @@
 - Git
 
 ---
-
-### 🌱 Atualmente
+###  ATUALMENTE
 
 - Aprimorando conhecimentos em arquitetura de software
 - Estudando testes automatizados e boas práticas de desenvolvimento
@@ -43,14 +42,6 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Majuxx02&show_icons=true&theme=tokyonight&rank_icon=github&hide=prs&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majuxx02&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 
 ![Snake animation](https://majuxx02.github.io/Majuxx02/github-snake.svg)
