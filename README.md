@@ -1,24 +1,37 @@
----  
-<h1 align="center">Olá, eu sou a Maria Julia </h1>
+
+<h1 align="center">Olá! Eu sou a Maria Julia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=EC70A5&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End+em+formação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=EC70A5&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;PHP+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonada por tecnologia, inovação e interfaces criativas  
-🌸 Desenvolvedora **Front-End em formação**
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**
+
+💻 Desenvolvedora Full Stack com experiência em desenvolvimento e manutenção de sistemas web.
+
+🚀 Tenho interesse em desenvolvimento de software, boas práticas de programação e construção de aplicações que gerem valor para o usuário.
 
 ---
 
-### 🌱 Atualmente:
-- 📚 Estudando **JavaScript**, **Python**, **Git** e **interfaces web**
-- 💻 Desenvolvendo projetos práticos para meu portfólio
-- 📫 Me encontre em: [mariajulia02031748@gmail.com](mailto:mariajulia02031748@gmail.com)
+### 🛠️ Tecnologias
+
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- SQL
+- Git
+
 ---
 
+### 🌱 Atualmente
+
+- Aprimorando conhecimentos em arquitetura de software
+- Estudando testes automatizados e boas práticas de desenvolvimento
+- Desenvolvendo novas funcionalidades para sistemas web
 ### 🧰 Minhas Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Maju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
